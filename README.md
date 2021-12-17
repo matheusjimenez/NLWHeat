@@ -14,6 +14,7 @@ Here are some technologies used in this project.
 * typescript
 * sass
 * socket.io-client
+* Prisma (ORM)
  
 ## Services Used
  
